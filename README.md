@@ -1,5 +1,3 @@
-# Profile
-
 <h1 align="center">Hi 👋, I'm WhiteWheater</h1>
 <h3 align="center">Young developer</h3>
 
